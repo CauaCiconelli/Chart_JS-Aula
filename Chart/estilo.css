@@ -1,0 +1,8 @@
+body{
+    background-color: #b5d6ed;
+    display: flex;
+    justify-content: space-between;
+}
+div{
+    width: 48%;
+}
